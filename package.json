@@ -1,6 +1,6 @@
 {
   "name": "react-native-flexi-radio-button",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Radio button component for React Native",
   "main": "lib/index.js",
   "scripts": {
@@ -14,7 +14,11 @@
     "react-native",
     "radio",
     "button",
-    "radio-button"
+    "radio-button",
+    "react-component",
+    "ios",
+    "android",
+    "radio-buttons"
   ],
   "peerDependencies": {
     "react-native": ">= 0.25"
