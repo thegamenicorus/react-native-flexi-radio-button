@@ -47,10 +47,8 @@ render(){
 }
 ```
 
-|Initialize|After Select|
+|![basic_example_ios](https://cloud.githubusercontent.com/assets/21040043/18545904/67b5476e-7b65-11e6-8fc4-8160b39a4ab0.gif)|![basic_example_android](https://cloud.githubusercontent.com/assets/21040043/18545908/69b22f5a-7b65-11e6-87d7-c82c0d3057dd.gif)|
 |---------------|----------|
-|![simulator screen shot sep 12 2559 be 11 12 55 pm](https://cloud.githubusercontent.com/assets/21040043/18443314/91b2d0be-793e-11e6-986d-fad44fcf9b0f.png)|![simulator screen shot sep 12 2559 be 11 14 51 pm](https://cloud.githubusercontent.com/assets/21040043/18443346/bbeb0e14-793e-11e6-8a13-305bdb8e469c.png)|
-
 ###Custom Example
 [see full custom example](https://github.com/thegamenicorus/react-native-flexi-radio-button/blob/master/examples/CustomExample/app.js)
 
