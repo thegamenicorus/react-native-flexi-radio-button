@@ -52,7 +52,12 @@ render(){
 ###Custom Example
 [see full custom example](https://github.com/thegamenicorus/react-native-flexi-radio-button/blob/master/examples/CustomExample/app.js)
 
+|![custom_ios](https://cloud.githubusercontent.com/assets/21040043/18546467/53bf8230-7b68-11e6-98f6-98899cce82b3.gif)|![cusom_android](https://cloud.githubusercontent.com/assets/21040043/18546744/cb912fce-7b69-11e6-9331-49e2337dcb04.gif)|
+|---------------|----------|
+
+
 modify in render()
+
 ```jsx
 <RadioGroup
   size={24}
@@ -100,9 +105,7 @@ modify in render()
   </RadioButton>
 </RadioGroup>
 ```
-|Initialize|After Select|
-|---------------|----------|
-|![simulator screen shot sep 13 2559 be 1 07 34 am](https://cloud.githubusercontent.com/assets/21040043/18446961/bd7bb14c-794e-11e6-8276-46d3804a5ee6.png)|![simulator screen shot sep 13 2559 be 1 07 55 am](https://cloud.githubusercontent.com/assets/21040043/18446965/c086492e-794e-11e6-95f0-1b0d072a20ee.png)|
+
 ### Configuration
 ##### Radio Group:
 | Property | Type | Default | Description |
