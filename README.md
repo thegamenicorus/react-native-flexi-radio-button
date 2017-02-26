@@ -125,3 +125,4 @@ modify in render()
 | value | any |  null | value will be passed on callback `onSelect` as second argument  |
 | style | object | null | Styles to be applied on 'RadioButton' component |
 | color | string |  same as 'RadioGroup' component | color of radio dot  |
+| disabled | bool |  false | If true, disable all interactions for this component.  |
