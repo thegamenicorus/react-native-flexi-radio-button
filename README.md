@@ -113,6 +113,7 @@ modify in render()
 | size | number | 20 | Size of the radio button |
 | thickness | number | 1 | width of radio button border |
 | color | string | '#007AFF' | color of radio button |
+| activeColor | string | null | color of radio button when selected|
 | highlightColor | string | null | background of radio button after selected |
 | selectedIndex | number | null | initialize selected index of radio group |
 | style | object | null | Custom styles to be applied if supplied |
