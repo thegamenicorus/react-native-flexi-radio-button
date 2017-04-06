@@ -1,6 +1,6 @@
 {
   "name": "react-native-flexi-radio-button",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "description": "Radio button component for React Native",
   "main": "lib/index.js",
   "scripts": {
