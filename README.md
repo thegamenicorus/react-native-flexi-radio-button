@@ -115,7 +115,7 @@ modify in render()
 | color | string | '#007AFF' | color of radio button |
 | activeColor | string | null | color of radio button when selected|
 | highlightColor | string | null | background of radio button after selected |
-| selectedIndex | number | null | initialize selected index of radio group |
+| selectedIndex | number | null | default selected index of radio group, can be changed to new value or to null for clear selection  |
 | style | object | null | Custom styles to be applied if supplied |
 | onSelect | function(index, value) | null | function to be invoked when radio button is selected |
 
